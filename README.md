@@ -1,35 +1,11 @@
 ## Hi, I'm GRQZ
 Message of the day:  
-```http
-BREW coffee HTTP/1.1
-Host: www.example.re
-Content-Type: message/coffeepot
-Content-Length: 5
-
-start
-```
-
-```http
-HTTP/1.1 418 I’m a teapot
-Content-Type: text/html
-Content-Length: 146
-
-<html>
-  <head>
-    <title>Beverage not supported</title>
-  </head>
-  <body>
-   <p>I’m a teapot and I don’t support coffee.</p>
-  </body>
-</html>
-```
-It's [The Hyper Text Coffee Pot Control Protocol](<https://datatracker.ietf.org/doc/html/rfc7168>)!
-
+What's the deal with ChatGPT anyway, why would I ever want to talk to my drive's partition table
 
 
 ---
 
-Last Update: 2026-10-12 03:19:45.212793+00:00  
+Last Update: 2026-10-13 04:34:28.548980+00:00  
 [Contact Me](mailto:%67%72%71%7a%2e%64%65%76%2b%63%40%70%72%6f%74%6f%6e%2e%6d%65)
 
 ## "Pinned repos"
